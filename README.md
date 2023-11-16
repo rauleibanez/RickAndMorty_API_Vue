@@ -1,4 +1,5 @@
 # rick-morty
+Practica de consumir APIs desde un sitio Web hacia la aplicacion Vue
 
 ## Project setup
 ```
